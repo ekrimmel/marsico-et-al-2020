@@ -1,0 +1,169 @@
+index,acronym1,acronym2,herbName,institutionType,sizeNumber,state
+14,AKG,,Angus K. Gholson Herbarium,private,20000,FL
+15,ARCH,,Archbold Biological Station,biological field station,6500,FL
+16,BUS,,Buswell Herbarium,private,15000,FL
+17,DLF,,Stetson,university,10500,FL
+18,FLAS,,Florida Museum of Natural History: University of Florida Herbarium,university,470000,FL
+19,FNPS,,"South Florida Collections Management Center, Everglades National Park",federal,8600,FL
+20,FSU,,Florida State University: R. K. Godfrey Herbarium,university,221000,FL
+21,FTG,,Fairchild Tropical Botanic Garden,botanical garden,165000,FL
+22,FTU,,University of Central Florida,university,26000,FL
+23,TTRS,,Tall Timbers Research Station,biological field station,10500,FL
+24,USF,,University of South Florida,university,270000,FL
+25,UWFP,,University of West Florida: M. I. Cousens Herbarium,university,23000,FL
+26,SEL,,Marie Selby Botanical Gardens,botanical garden,100000,FL
+27,AHFH,,"University of Southern California, Allan Hancock Foundation",university,0,CA
+28,,,Pepperwood Preserve: Barnhart Herbarium,private,2500,CA
+29,AHUC,,"University of California, Davis: Department of Agronomy, Cramptoon Collection",university,55000,CA
+30,IFGP,,"Institute of Forest Genetics, Pacific Southwest Research Station, USDA Forest Service: Critchfield Memorial Herbarium",federal,4000,CA
+31,GMS,,"Hopkins Marine Station, Stanford University: Gilbert M. Smith Herbarium",biological field station,9000,CA
+32,JROH,,"Stanford University, Jasper Ridge Biological Preserve: The Oakmead Herbarium and Collections",biological field station,5400,CA
+33,MACF,,"California State University, Fullerton: McFadden Herbarium",university,25000,CA
+34,NCC,ROPA,Sonoma State University: North Coast Herbarium of California,university,25000,CA
+35,PFRS,,"Pacific Southwest Forest and Range Experiment Station, USDA Forest Service: Forest Disease Herbarium",federal,5100,CA
+36,CSPU,,"California State Polytechnic University, Pomona",university,2500,CA
+37,OBI,,"California Polytechnic State University, San Luis Obispo: Robert F. Hoover Herbarium",university,75000,CA
+38,CHAF,,Chaffey College,university,6000,CA
+39,CRMC,,"Mendocino College, Coast Center",university,5000,CA
+40,CHSC,,"California State University, Chico",university,95300,CA
+41,HSC,,Humboldt State University,university,132000,CA
+42,LOB,,"California State University, Long Beach",university,12000,CA
+43,CSLA,,"California State University, Los Angeles",university,37000,CA
+44,SFV,,"California State University, Northridge",university,23000,CA
+45,SACT,,"California State University, Sacramento",university,20000,CA
+46,CSUSB,,"California State University, San Bernardino",university,4800,CA
+47,SHTC,,"California State University, Stanislaus",university,4000,CA
+48,CSUCI,,"California State University, Channel Islands",university,1000,CA
+49,DVM,,Diablo Valley College,university,1908,CA
+50,FSC,,"California State University, Fresno",university,35000,CA
+51,LOMA,,La Sierra University,university,3000,CA
+52,VNC,,Los Angeles Valley College,university,5000,CA
+53,OMC,,Mills College,university,2500,CA
+54,LOC,,Occidental College,university,15000,CA
+55,PUA,,Pacific Union College,university,85000,CA
+56,PASM,,Palomar College,university,2500,CA
+57,SDSU,,San Diego State University,university,21000,CA
+58,SFSU,,San Francisco State University: Harry D. Thiers Herbarium,university,140000,CA
+59,SJSU,,San Jose State University: Carl W. Sharsmith Herbarium,university,14691,CA
+60,SBCC,,Santa Barbara City College,university,2900,CA
+61,RESC,,Shasta College,university,10000,CA
+62,JEPS,UC,"University of California, Berkeley: Jepson Herbarium",university,2200000,CA
+63,DAV,UCD,"University of California, Davis: Center for Plant Diversity",university,300000,CA
+64,IRVC,,"University of California, Irvine",university,35000,CA
+65,LA,,"University of California, Los Angeles",university,190000,CA
+66,UCR,,"University of California, Riverside",university,242000,CA
+67,UCSB,SBC,"University of California, Santa Barbara",university,100000,CA
+68,UCSC,,"University of California, Santa Cruz",university,10000,CA
+69,CPH,,University of the Pacific,university,22500,CA
+70,VVC,,Victor Valley College,university,5000,CA
+71,WHIT,,Whittier College,university,5000,CA
+72,,,Bodega Marine Lab,biological field station,941,CA
+73,,,Boyd Deep Canyon Desert Research Center,biological field station,2000,CA
+74,,,Burns Pinyon Ridge,biological field station,274,CA
+75,,,Coal Oil Point Natural Reserve,biological field station,151,CA
+76,CAVA,,"University of California at Berkeley, Hastings Reserve",biological field station,4000,CA
+77,SCFS,,"University of California at Berkeley, Sagehen Creek Field Station",biological field station,3000,CA
+78,GMDRC,,Granite Mountains Desert Research Center,biological field station,6000,CA
+79,,,"University of California, San Diego Natural Reserve System",biological field station,0,CA
+80,,,White Mountain Research Station,biological field station,2000,CA
+81,THRI,,Sequoia and Kings Canyon National Parks: Ash Mountain Herbarium,federal,3000,CA
+82,BLMAR,,Bureau of Land Management Arcata Field Office,federal,695,CA
+83,DEVA,,Death Valley National Park,federal,3148,CA
+84,JOTR,,Joshua Tree National Park,federal,3500,CA
+85,KNFY,,Klamath National Forest,federal,1500,CA
+86,LVNP,,Lassen Volcanic National Park,federal,3000,CA
+87,PORE,,Point Reyes National Seashore,federal,1405,CA
+88,VFWO,,"U.S. Fish and Wildlife Service, Ventura Fish and Wildlife Office",federal,1000,CA
+89,YM,,Yosemite National Park,federal,7200,CA
+90,CAS,DS,California Academy of Sciences,private,1900000,CA
+91,CATA,,Catalina Island Conservancy,private,3000,CA
+92,HNT,PASA,"The Huntington Library, Art Collections, and Botanical Gardens",private,11000,CA
+93,OAKL,,Oakland Museum of California,private,3200,CA
+94,PGM,,Pacific Grove Museum of Natural History,private,7500,CA
+95,RSA,POM,Rancho Santa Ana Botanic Garden,botanical garden,1092200,CA
+96,CLARK,,Riverside Metropolitan Museum: Dr. Charles F. and Wilhelmina Husser Clark Herbarium,private,10000,CA
+97,SD,,San Diego Natural History Museum,private,200000,CA
+98,SBBG,,Santa Barbara Botanic Garden: Clifton Smith Herbarium,botanical garden,150000,CA
+99,,,Inyo County Water Department,county,0,CA
+100,LASCA,,The Los Angeles County Arboretum,county,20000,CA
+101,BSCA,,Anza-Borrego Desert State Park,state,2000,CA
+102,CDA,BPS,California Department of Food and Agriculture,state,40000,CA
+103,APSC,,Austin Peay State University,university,50000,TN
+104,ETSU,,East Tennessee State University: John C. Warden Herbarium,university,17000,TN
+105,GSMNP,,Great Smoky Mountains National Park,federal,7700,TN
+106,MTSU,,Middle Tennessee State University,university,22000,TN
+107,UOS,,University of the South,university,6700,TN
+108,HTTU,,Tennessee Technological University: Paul L. Hollister Herbarium,university,25000,TN
+109,UCHT,,"University of Tennessee, Chattanooga",university,30000,TN
+110,UTM,,"University of Tennessee, Martin",university,0,TN
+111,TENN,,"University of Tennessee, Knoxville",university,550000,TN
+112,VDB,BRIT,Vanderbilt University,university,300000,TN
+113,CMML,,Colorado State University,university,35107,CO
+114,COCO,,Colorado College: The Carter Herbarium,university,20000,CO
+115,COLO,,University of Colorado Museum,university,500000,CO
+116,CS,,Colorado State University,university,100000,CO
+118,DPLO,,Dolores Public Lands Office (BLM),federal,600,CO
+119,FLD,,Fort Lewis College,university,12356,CO
+120,FLFO,,Florissant Fossil Beds National Monument,federal,1263,CO
+121,GREE,,University of Northern Colorado,university,28000,CO
+122,KHD,DBG,Denver Botanic Gardens: Kathryn Kalmbach Herbarium,botanical garden,57815,CO
+123,MESA,,Colorado Mesa University,university,5700,CO
+124,MEVE,,Mesa Verde National Park,federal,2619,CO
+125,RM,,University of Wyoming: Rocky Mountain Herbarium,university,825000,CO
+126,RMBL,,Rocky Mountain Biological Laboratory,biological field station,5538,CO
+127,RMRS,,"Manitou Experimental Forest, USDA Forest Service",federal,1000,CO
+128,ROMO,,Rocky Mountain National Park,federal,6184,CO
+129,SJNM,,San Juan College,university,66275,CO
+130,WSC,,Western State College,university,7014,CO
+131,VSC,,Valdosta State University,university,71000,GA
+132,UGA,GA,University of Georgia,university,267000,GA
+133,GSW,,Georgia Southwestern State University,university,13000,GA
+134,COLG,,Columbus State University,university,10000,GA
+135,AASU,,Armstrong State University,university,5600,GA
+136,GAS,,Georgia Southern University,university,21127,GA
+137,WGC,,University of West Georgia,university,6000,GA
+138,GEO,,Emory University,university,18805,GA
+187,PUSC,,"Colorado State University, Pueblo",university,617,CO
+141,DEWV,,Davis and Elkins College,university,5120,WV
+142,FWVA,,Fairmont State University,university,5000,WV
+143,GLEN,,Rappahannock Community College,university,0,WV
+145,MUHW,,Marshall University,university,50000,WV
+148,VPI,,Virginia Polytechnic Institute and State University: Massey Herbarium,university,109000,WV
+149,WVA,,West Virginia University,university,175000,WV
+151,WVSU,,West Virginia State University,university,0,WV
+152,WVW,,West Virginia Wesleyan College: George B. Rossbach Herbarium,university,25000,WV
+153,UARK,,University of Arkansas,university,135000,AR
+154,UAM,,"University of Arkansas, Monticello",university,28000,AR
+155,ANHC,,Arkansas Natural Heritage Commission,state,7100,AR
+156,STAR,,Arkansas State University,university,25000,AR
+157,HEND,,Henderson State University,university,45000,AR
+158,,,Southern Arkansas University,university,1101,AR
+159,HXC,,Hendrix College,university,5000,AR
+160,APCR,,Arkansas Tech University,university,20000,AR
+161,UCAC,,University of Central Arkansas,university,19167,AR
+162,ALBC,,Albion College,university,14000,MI
+163,ALMA,,Alma College,university,15000,MI
+164,AUB,,Andrews University,university,12000,MI
+165,BLH,,Cranbrook Institute of Science: Billington Herbarium,private,57905,MI
+166,CALVIN,,Calvin College,university,76000,MI
+167,CMC,,Central Michigan University,university,26000,MI
+168,ELOWE,,Edward Lowe Foundation Herbarium,private,750,MI
+169,EMC,,Eastern Michigan University,university,25000,MI
+170,GOCC,,Glen Oaks Community College Herbarium,university,0,MI
+171,HLSD,,Hillsdale College,university,3900,MI
+172,IRP,,Isle Royale National Park,federal,2200,MI
+173,KBSMS,,"Michigan State University, Kellogg Biological Station",biological field station,7079,MI
+174,LSSU,,Lake Superior State University,university,0,MI
+175,MCT,,Michigan Technological University,university,11710,MI
+176,MICH,UMBS,University of Michigan,university,1700000,MI
+177,MSC,,Michigan State University,university,560000,MI
+178,MUSK,,Muskegon Community College,university,600,MI
+179,NM,,Northern Michigan University,university,6000,MI
+180,OLV,,Olivet College,university,1500,MI
+181,ONF,,Ottawa National Forest Herbarium,federal,3000,MI
+182,PCCI,,Pierce Cedar Creek Institute,private,0,MI
+183,SEN,,Seney National Wildlife Refuge Herbarium,federal,400,MI
+184,UMBS,,University of Michigan Biological Station,biological field station,18188,MI
+185,WMU,,Western Michigan University,university,33000,MI
+186,WUD,,Wayne State University,university,17000,MI
+188,TSJC,,Trinidad State Junior College,university,580,CO
