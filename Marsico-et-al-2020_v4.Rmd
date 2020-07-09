@@ -34,7 +34,7 @@ options(scipen = 999)
 # directory. Edit the filenames here if necessary:
 input_specimens <- "Marsico-et-al-2020_specimens_2019-04-17.csv"
 input_herbaria <- "Marsico-et-al-2020_herbaria_2019-06-08.csv"
-input_species <- "Marsico-et-al-2020_species_2019-04-17.csv"
+input_species <- "Marsico-et-al-2020_species_2020-07-09.csv"
 ```
 
 ### Prepare data
