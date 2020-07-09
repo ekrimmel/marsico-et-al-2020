@@ -1,0 +1,321 @@
+index,family,taxon,synonyms,origin,status,state
+244,ALLIACEAE,Allium vineale,,,introduced,AR
+246,POACEAE,Bromus secalinus,,,introduced,AR
+250,ASTERACEAE,Cirsium arvense,,,introduced,AR
+258,HYPERICACEAE,Hypericum perforatum,,,introduced,AR
+259,SAPINDACEAE,Koelreuteria paniculata,,,introduced,AR
+262,CAPRIFOLIACEAE,Lonicera morrowii,,,introduced,AR
+267,HYDROCHARITACEAE,Najas minor,,,introduced,AR
+270,POACEAE,Phalaris canariensis,,,introduced,AR
+274,CHENOPODIACEAE,Salsola tragus,,,introduced,AR
+278,FABACEAE,Senna obtusifolia,,,introduced,AR
+243,OROBANCHACEAE,Agalinis tenuifolia,,,native,AR
+248,CYPERACEAE,Carex frankii,,,native,AR
+251,CYPERACEAE,Cyperus polystachyos,,,native,AR
+254,GERANIACEAE,Geranium carolinianum carolinianum,,,native,AR
+255,ASTERACEAE,Helianthus silphioides,,,native,AR
+260,FABACEAE,Lespedeza virginica,,,native,AR
+264,ERICACEAE,Lyonia mariana,,,native,AR
+265,LOGANIACEAE,Mitreola petiolata,,,native,AR
+268,CACTACEAE,Opuntia macrorhiza,,,native,AR
+271,SANTALACEAE,Phoradendron leucarpum,,,native,AR
+242,EUPHORBIACEAE,Acalypha deamii,,,S1,AR
+245,FABACEAE,Astragalus nuttallianus nuttallianus,,,S1,AR
+249,CYPERACEAE,Carex shinnersii,,,S1,AR
+263,FABACEAE,Lupinus texensis,,,S1,AR
+269,POACEAE,Paspalum boscianum,,,S1,AR
+273,GENTIANACEAE,Sabatia gentianoides,,,S1,AR
+275,ROSACEAE,Sanguisorba annua,,,S1,AR
+279,RANUNCULACEAE,Thalictrum dioicum,,,S1,AR
+280,HYPERICACEAE,Triadenum virginicum,,,S1,AR
+281,ADOXACEAE,Viburnum recognitum,,,S1,AR
+247,CYPERACEAE,Carex bromoides bromoides,,,S2,AR
+252,RANUNCULACEAE,Delphinium carolinianum vimineum,,,S2,AR
+253,APIACEAE,Eryngium integrifolium,,,S2,AR
+256,ASTERACEAE,Hieracium scabrum,,,S2,AR
+257,ASTERACEAE,Hymenopappus artemisiifolius artemisiifolius,,,S2,AR
+261,ASTERACEAE,Liatris punctata mucronata,,,S2,AR
+266,POACEAE,Muhlenbergia bushii,,,S2,AR
+272,APIACEAE,Ptilimnium nodosum,,,S2,AR
+276,POACEAE,Schedonnardus paniculatus,,,S2,AR
+277,CYPERACEAE,Scirpus polyphyllus,,,S2,AR
+51,ASTERACEAE,Ageratina adenophora,Eupatorium adenophorum,,introduced,CA
+52,SIMAROUBACEAE,Ailanthus altissima,,,introduced,CA
+53,AIZOACEAE,Carpobrotus edulis,Mesembryanthemum edule,,introduced,CA
+54,HYDROCHARITACEAE,Limnobium laevigatum,,,introduced,CA
+55,LAMIACEAE,Mentha pulegium,,,introduced,CA
+56,LAMIACEAE,Salvia aethiopis,,,introduced,CA
+57,APIACEAE,Torilis arvensis,Torilis arvensis subsp. purpurea,,introduced,CA
+58,ARECACEAE,Washingtonia robusta,,,introduced,CA
+59,ARACEAE,Zantedeschia aethiopica,,,introduced,CA
+60,ZOSTERACEAE,Zostera japonica,,,introduced,CA
+41,EUPHORBIACEAE,Acalypha californica,,,native,CA
+42,ASTERACEAE,Calycadenia mollis,,,native,CA
+43,CACTACEAE,Cylindropuntia wolfii,,,native,CA
+44,CYPERACEAE,Eleocharis ovata,Scirpus ovatus; Eleocharis obtusa var. ovata,,native,CA
+45,ROSACEAE,Ivesia pygmaea,Horkelia chaetophora,,native,CA
+46,BRASSICACEAE,Lepidium dictyotum,,,native,CA
+47,POLEMONIACEAE,Leptosiphon bolanderi,Linanthus bolanderi,,native,CA
+48,FABACEAE,Pediomelum californicum,Psoralea californica,,native,CA
+49,ROSACEAE,Potentilla drummondii,,,native,CA
+50,BORAGINACEAE,Tiquilia plicata,Coldenia plicata,,native,CA
+61,CYPERACEAE,Carex stevenii,Carex norvegica,,S1,CA
+62,PLANTAGINACEAE,Collinsia corymbosa,,,S1,CA
+63,CACTACEAE,Echinocereus engelmannii howei,Echinocereus engelmannii,,S1,CA
+64,LAMIACEAE,Hedeoma drummondii,,,S1,CA
+65,FABACEAE,Lathyrus rigidus,,,S1,CA
+66,FABACEAE,Lupinus citrinus deflexus,Lupinus deflexus,,S1,CA
+67,BRASSICACEAE,Nasturtium gambelii,Cardamine gambelii; Rorippa gambelii,,S1,CA
+68,PLANTAGINACEAE,Penstemon bicolor roseus,Penstemon bicolor,,S1,CA
+69,POACEAE,Poa abbreviata marshii,,,S1,CA
+70,ARACEAE,Wolffia brasiliensis,,,S1,CA
+71,FABACEAE,Astragalus pseudiodanthus,Astragalus iodanthus var. pseudiodanthus,,S2,CA
+72,CABOMBACEAE,Brasenia schreberi,Brasenia peltata; Brasenia purpurea; Cabomba peltata,,S2,CA
+73,RHAMNACEAE,Ceanothus ferrisiae,Ceanothus ferrisae,,S2,CA
+74,POLYGONACEAE,Eriogonum kelloggii,Eriogonum caespitosum var. kelloggii,,S2,CA
+75,LAMIACEAE,Monardella sinuata nigrescens,,,S2,CA
+76,PLANTAGINACEAE,Penstemon stephensii,,,S2,CA
+77,ASTERACEAE,Pyrrocoma racemosa congesta,Haplopappus racemosus subsp. congestus,,S2,CA
+78,CARYOPHYLLACEAE,Silene salmonacea,,,S2,CA
+79,BRASSICACEAE,Streptanthus insignis lyonii,,,S2,CA
+80,LAMIACEAE,Trichostema ruygtii,,,S2,CA
+131,ASTERACEAE,Crupina vulgaris,,,introduced,CO
+132,POLYGONACEAE,Polygonum cuspidatum,,,introduced,CO
+133,ASTERACEAE,Arctium minus,,,introduced,CO
+134,ASTERACEAE,Artemisia absinthium,,,introduced,CO
+135,APIACEAE,Carum carvi,,,introduced,CO
+136,ASTERACEAE,Centaurea diffusa,,,introduced,CO
+137,EUPHORBIACEAE,Euphorbia esula,,,introduced,CO
+138,SOLANACEAE,Hyoscyamus niger,,,introduced,CO
+139,LYTHRACEAE,Lythrum salicaria,,,introduced,CO
+140,ROSACEAE,Potentilla recta,,,introduced,CO
+121,PINACEAE,Abies bifolia,,,native,CO
+122,CRASSULACEAE,Crassula drummondii,,,native,CO
+123,POLEMONIACEAE,Aliciella subacaulis,Gilia subacualis,,native,CO
+124,AMARANTHACEAE,Corispermum americanum,,,native,CO
+125,BORAGINACEAE,Cryptantha ambigua,,,native,CO
+126,ROSACEAE,Dryas octopetala,,,native,CO
+127,POACEAE,Elymus lanceolatus,,,native,CO
+128,ASPARAGACEAE,Maianthemum stellatum,,,native,CO
+129,ONAGRACEAE,Oenothera coronopifolia,,,native,CO
+130,ASTERACEAE,Oonopsis engelmannii,,,native,CO
+141,FABACEAE,Astragalus jejunus,,,S1,CO
+142,FABACEAE,Astragalus schmolliae,,,S1,CO
+143,POLYGONACEAE,Eriogonum clavellatum,,,S1,CO
+144,POLEMONIACEAE,Ipomopsis polyantha,,,S1,CO
+145,BORAGINACEAE,Mertensia humilis,,,S1,CO
+146,RANUNCULACEAE,Myosurus nitidus,,,S1,CO
+147,PLANTAGINACEAE,Penstemon penlandii,,,S1,CO
+148,BRASSICACEAE,Physaria pulvinata,,,S1,CO
+149,BRASSICACEAE,Physaria rollinsii,,,S1,CO
+150,AMARANTHACEAE,Proatriplex pleiantha,,,S1,CO
+151,ASTERACEAE,Bolophyta ligulata,,,S2,CO
+152,CYPERACEAE,Carex stenoptila,,,S2,CO
+153,POLYGONACEAE,Eriogonum contortum,,,S2,CO
+154,BRASSICACEAE,Lepidium crenatum,,,S2,CO
+155,FABACEAE,Pediomelum aromaticum,,,S2,CO
+156,PLANTAGINACEAE,Penstemon breviculus,,,S2,CO
+157,PLANTAGINACEAE,Penstemon degeneri,,,S2,CO
+158,IRIDACEAE,Sisyrinchium pallidum,,,S2,CO
+159,ASTERACEAE,Townsendia fendleri,,,S2,CO
+160,ASTERACEAE,Townsendia glabella,,,S2,CO
+31,PHYLLANTHACEAE,Bischofia javanica,,not native,introduced,FL
+32,CLUSIACEAE,Calophyllum antillanum,,not native,introduced,FL
+33,CASURINACEAE,Casuarina equisetifolia,,not native,introduced,FL
+34,ARACEAE,Colocasia esculenta,,not native,introduced,FL
+35,MYRTACEAE,Eugenia uniflora,,not native,introduced,FL
+36,POACEAE,Hymenachne amplexicaulis,,not native,introduced,FL
+37,OLEACEAE,Jasminum dichotomum,,not native,introduced,FL
+38,ARACEAE,Pistia stratiotes,,not native,introduced,FL
+39,ARACEAE,Syngonium podophyllum,,not native,introduced,FL
+40,MALVACEAE,Thespesia populnea,,not native,introduced,FL
+21,ASTERACEAE,Symphyotrichum sericeum microphyllum,,native,native,FL
+22,LOGANIACEAE,Spigelia marilandica,,native,native,FL
+23,ASTERACEAE,Solidago leavenworthii,,native,native,FL
+24,CYPERACEAE,Carex albicans australis,,native,native,FL
+25,CYPERACEAE,Carex typhina,,native,native,FL
+26,BRASSICACEAE,Draba brachycarpa,,native,native,FL
+27,ASTERACEAE,Helianthus resinosus,,native,native,FL
+28,ERICACEAE,Eubotrys racemosa,Leucothoe racemosa,native,native,FL
+29,FABACEAE,Mimosa strigillosa,,native,native,FL
+30,POACEAE,Schizachyrium scoparium scoparium,Schizachyrium rhizomatum,native,native,FL
+1,CONVOLVULACEAE,Ipomoea tenuissima,,native,S1,FL
+2,BRASSICACEAE,Boechera canadensis,Arabis canadensis,native,S1,FL
+3,ASPLENIACEAE,Asplenium x curtissii,,endemic,S1,FL
+4,ASTERACEAE,Balduina atropurpurea,,native,S1,FL
+5,SAPOTACEAE,Sideroxylon thornei,,native,S1,FL
+6,POLYGALACEAE,Polygala smallii,,endemic,S1,FL
+7,FABACEAE,Tephrosia angustissima corallicola,,native,S1,FL
+8,APOCYNACEAE,Matelea baldwyniana,,native,S1,FL
+9,ERICACEAE,Monotropa hypopithys,,native,S1,FL
+10,FABACEAE,Lupinus aridorum,,native,S1,FL
+11,MALVACEAE,Pavonia spinifex,,native,S2,FL
+12,SAPOTACEAE,Sideroxylon lycioides,,native,S2,FL
+13,CACTACEAE,Harrisia aboriginum,,endemic,S2,FL
+14,EUPHORBIACEAE,Chamaesyce porteriana,,endemic,S2,FL
+15,ASTERACEAE,Rudbeckia triloba,,native,S2,FL
+16,ORCHIDACEAE,Dendrophylax lindenii,,native,S2,FL
+17,MYRTACEAE,Mosiera longipes,,native,S2,FL
+18,ASTERACEAE,Verbesina heterophylla,,endemic,S2,FL
+19,FABACEAE,Lupinus westianus,,endemic,S2,FL
+20,ERICACEAE,Rhododendron alabamense,,native,S2,FL
+163,COMMELINACEAE,Murdannia keisak,,,introduced,GA
+164,CAPRIFOLIACEAE,Lonicera japonica,,,introduced,GA
+168,LYGODIACEAE,Lygodium japonicum,,,introduced,GA
+169,MELIACEAE,Melia azedarach,,,introduced,GA
+170,FABACEAE,Wisteria sinensis,,,introduced,GA
+171,AMARANTHACEAE,Alternanthera philoxeroides,,,introduced,GA
+174,FABACEAE,Lespedeza cuneata,,,introduced,GA
+180,ARALIACEAE,Hedera helix,,,introduced,GA
+186,PAULOWNIACEAE,Paulownia tomentosa,,,introduced,GA
+193,PONTEDERIACEAE,Eichornia crassipes,,,introduced,GA
+162,ERICACEAE,Rhododendron canescens,,,native,GA
+167,POLEMONIACEAE,Phlox amoena,,,native,GA
+172,ORCHIDACEAE,Platanthera cristata,,,native,GA
+173,POLYGONACEAE,Polygonella gracilis,,,native,GA
+176,CYPERACEAE,Carex granularis,,,native,GA
+177,POACEAE,Paspalum floridanum,,,native,GA
+178,ROSACEAE,Fragaria virginiana,,,native,GA
+183,ASTERACEAE,Sericocarpus linifolius,,,native,GA
+188,ORCHIDACEAE,Spiranthes laciniata,,,native,GA
+198,PLANTAGINACEAE,Callitriche terrestris,,,native,GA
+179,SIMAROUBACEAE,Leitneria floridana,,,S1,GA
+322,ORCHIDACEAE,Cypripedium kentuckiense,,,S1,GA
+184,VERBENACEAE,Glandularia bipinnatifida,,,S1,GA
+185,ASTERACEAE,Helianthus verticillatus,,,S1,GA
+187,SCHISANDRACEAE,Illicium floridanum,,,S1,GA
+190,ANACARDIACEAE,Rhus michauxii,,,S1,GA
+191,BETULACEAE,Alnus maritima,,,S1,GA
+194,CYPERACEAE,Rhynchospora culixa,,,S1,GA
+196,HYDROCHARITACEAE,Najas filifolia,,,S1,GA
+200,PLANTAGINACEAE,Chelone cuthbertii,,,S1,GA
+165,SARRACENIACEAE,Sarracenia rubra,,,S2,GA
+166,MELASTOMATACEAE,Rhexia aristosa,,,S2,GA
+175,PLANTAGINACEAE,Penstemon dissectus,,,S2,GA
+182,LAMIACEAE,Scutellaria ocmulgee,,,S2,GA
+189,BRASSICACEAE,Leavenworthia exigua,,,S2,GA
+192,HYPERICACEAE,Hypericum erythreae,,,S2,GA
+195,APIACEAE,Oxypolis ternata,,,S2,GA
+197,HAMAMELIDACEAE,Fothergilla gardenii,,,S2,GA
+199,ASTERACEAE,Prenanthes barbata,,,S2,GA
+201,ORCHIDACEAE,Listera smallii,,,S2,GA
+282,SIMAROUBACEAE,Ailanthus altissima,,,introduced,MI
+283,VITACEAE,Ampelopsis brevipedunculata,Ampelopsis glandulosa brevipedunculata,,introduced,MI
+284,EUPHORBIACEAE,Euphorbia esula,,,introduced,MI
+285,LAMIACEAE,Galeopsis tetrahit,,,introduced,MI
+286,CAPRIFOLIACEAE,Lonicera maackii,,,introduced,MI
+287,HALORAGACEAE,Myriophyllum spicatum,,,introduced,MI
+288,FABACEAE,Securigera varia,,,introduced,MI
+289,SOLANACEAE,Solanum dulcamara,,,introduced,MI
+290,APIACEAE,Torilis japonica,,,introduced,MI
+291,APOCYNACEAE,Vincetoxicum nigrum,,,introduced,MI
+292,OROBANCHACEAE,Agalinis purpurea,,,native,MI
+293,APOCYNACEAE,Apocynum cannabinum,,,native,MI
+294,ASTERACEAE,Bidens trichosperma,,,native,MI
+295,FABACEAE,Desmodium rotundifolium,,,native,MI
+296,PONTEDERIACEAE,Heteranthera dubia,,,native,MI
+297,ASTERACEAE,Lactuca canadensis,,,native,MI
+298,ERICACEAE,Monotropa uniflora,,,native,MI
+299,POLYGONACEAE,Persicaria punctata,,,native,MI
+300,ASTERACEAE,Pseudognaphalium obtusifolium,,,native,MI
+301,IRIDACEAE,Sisyrinchium albidum,,,native,MI
+302,FABACEAE,Baptisia leucophaea,Baptisia bracteata leucophaea,,S1,MI
+303,BETULACEAE,Betula murrayana,,,S1,MI
+304,ASTERACEAE,Eupatorium sessilifolium,,,S1,MI
+305,GENTIANACEAE,Gentiana alba,,,S1,MI
+306,ROSACEAE,Gillenia trifoliata,Spiraea trifoliata,,S1,MI
+307,HYPERICACEAE,Hypericum adpressum,,,S1,MI
+308,CISTACEAE,Lechea stricta,,,S1,MI
+309,PLANTAGINACEAE,Penstemon gracilis,,,S1,MI
+310,BRASSICACEAE,Subularia aquatica,,,S1,MI
+311,ERICACEAE,Vaccinium vitis-idaea,,,S1,MI
+312,ROSACEAE,Agrimonia rostellata,,,S2,MI
+313,GENTIANACEAE,Bartonia paniculata,,,S2,MI
+314,OPHIOGLOSSACEAE,Botrychium mormo,,,S2,MI
+315,PLANTAGINACEAE,Callitriche hermaphroditica,,,S2,MI
+316,CYPERACEAE,Carex assiniboinensis,,,S2,MI
+317,DRYOPTERIDACEAE,Dryopteris celsa,,,S2,MI
+318,BORAGINACEAE,Lithospermum latifolium,,,S2,MI
+319,POACEAE,Poa paludigena,,,S2,MI
+320,POLEMONIACEAE,Polemonium reptans,,,S2,MI
+321,COMMELINACEAE,Tradescantia virginiana,,,S2,MI
+101,POACEAE,Bromus tectorum,,not native,introduced,TN
+102,CELASTRACEAE,Celastrus orbiculatus,,not native,introduced,TN
+103,ELAEAGNACEAE,Elaeagnus umbellata,,not native,introduced,TN
+104,POACEAE,Imperata cylindrica,,not native,introduced,TN
+105,FABACEAE,Kummerowia stipulacea,Lespedeza stipulacea,not native,introduced,TN
+106,FABACEAE,Lespedeza bicolor,,not native,introduced,TN
+107,CAPRIFOLIACEAE,Lonicera japonica,,not native,introduced,TN
+108,ROSACEAE,Rosa multiflora,,not native,introduced,TN
+109,POACEAE,Rottboellia cochinchinensis,,not native,introduced,TN
+110,POACEAE,Sorghum halepense,,not native,introduced,TN
+111,JUNCACEAE,Juncus subcaudatus,,native,native,TN
+112,FABACEAE,Lespedeza procumbens,,native,native,TN
+113,POACEAE,Sphenopholis nitida,,native,native,TN
+114,SCROPHULARIACEAE,Lindernia dubia,,native,native,TN
+115,ARACEAE,Arisaema triphyllum quinatum,Arisaema quinatum,native,native,TN
+116,POACEAE,Carex lupulina,,native,native,TN
+117,POACEAE,Glyceria striata,,native,native,TN
+118,JUGLANDACEAE,Juglans nigra,,native,native,TN
+119,POACEAE,Panicum flexile,,native,native,TN
+120,ULMACEAE,Ulmus serotina,,native,native,TN
+81,OPHIOGLOSSACEAE,Botrychium jenmanii,,native,S1,TN
+82,FABACEAE,Desmodium ochroleucum,,native,S1,TN
+83,ROSACEAE,Geum radiatum,,native,S1,TN
+84,ASTERACEAE,Krigia montana,,native,S1,TN
+85,LILIACEAE,Lilium grayi,,native,S1,TN
+86,LEJEUNEACEAE,Microlejeunea globosa,,native,S1,TN
+87,BRASSICACEAE,Paysonia stonensis,Lesquerella stonensis,native,S1,TN
+88,ASTERACEAE,Polymnia johnbeckii,,native,S1,TN
+89,LILIACEAE,Trillium tennesseense,,native,S1,TN
+90,ASTERACEAE,Helianthus glaucophyllus,,native,S1,TN
+91,BRASSICACEAE,Cardamine flagellifera,,native,S2,TN
+92,CYPERACEAE,Carex roanensis,,native,S2,TN
+93,ORCHIDACEAE,Cypripedium kentuckiense,,native,S2,TN
+94,RANUNCULACEAE,Delphinium exaltatum,,native,S2,TN
+95,ASTERACEAE,Echinacea tennesseensis,,native,S2,TN
+96,CLUSIACEAE,Hypericum mitchellianum,,native,S2,TN
+97,PRIMULACEAE,Lysimachia fraseri,,native,S2,TN
+98,ROSACEAE,Neviusia alabamensis,,native,S2,TN
+99,PORTULACACEAE,Phemeranthus mengesii,,native,S2,TN
+100,LILIACEAE,Trillium pusillum,,native,S2,TN
+205,BIGNONIACEAE,Catalpa bignonioides,,,introduced,WV
+206,AMARANTHACEAE,Chenopodium murale,,,introduced,WV
+216,FABACEAE,Kummerowia stipulacea,Lespedeza stipulacea,,introduced,WV
+217,FABACEAE,Kummerowia striata,lespedeza striata,,introduced,WV
+218,FABACEAE,Lespedeza bicolor,,,introduced,WV
+222,FABACEAE,Medicago lupulina,,,introduced,WV
+223,FABACEAE,Medicago sativa sativa,Medicago sativa,,introduced,WV
+225,CARYOPHYLLACEAE,Myosoton aquaticum,Stellaria aquatica,,introduced,WV
+231,FABACEAE,Pueraria montana lobata,Pueraria lobata,,introduced,WV
+233,ROSACEAE,Rubus canadensis,,,native,WV
+209,CYPERACEAE,Cyperus erythrorhizos,,,native,WV
+213,DRYOPTERIDACEAE,Dryopteris campyloptera,,,native,WV
+219,LILIACEAE,Lilium canadense,Lilium canadense ssp. editorum,,native,WV
+220,LILIACEAE,Lilium lancifolium,Lilium tigrinum,,introduced,WV
+227,CARYOPHYLLACEAE,Paronychia fastigiata,Paronychia fastigiata var. fastigiata,,native,WV
+228,PLANTAGINACEAE,Penstemon hirsutus,,,native,WV
+229,PLANTAGINACEAE,Plantago lanceolata,,,introduced,WV
+232,FAGACEAE,Quercus macrocarpa macrocarpa,Quercus macrocarpa,,native,WV
+234,LAMIACEAE,Stachys nuttallii,Stachys cordata,,native,WV
+239,FABACEAE,Wisteria sinensis,,,introduced,WV
+204,POACEAE,Calamagrostis stricta,Calamagrostis neglecta,,S1,WV
+208,ORCHIDACEAE,Corallorhiza maculata,Corallorhiza maculata var. occidentalis,,S1,WV
+210,LYTHRACEAE,Decodon verticillatus,,,S1,WV
+212,POACEAE,Diarrhena obovata,Diarrhena americana var. obovata,,S1,WV
+214,ROSACEAE,Geum aleppicum,Geum strictum,,S1,WV
+215,HYPERICACEAE,Hypericum virgatum,Hypericum denticulatum,,S1,WV
+221,LILIACEAE,Lilium michauxii,,,S1,WV
+224,CARYOPHYLLACEAE,Minuartia groenlandica,,,S1,WV
+237,LILIACEAE,Triantha glutinosa,Tofieldia glutinosa,,S1,WV
+238,HYMENOPHYLLACEAE,Trichomanes boschianum,,,S1,WV
+202,PAPAVERACEAE,Adlumia fungosa,,,S2,WV
+203,POACEAE,Calamagrostis porteri,Calamagrostis porteri ssp. porteri,,S2,WV
+207,RANUNCULACEAE,Clematis occidentalis,Clematis occidentalis var. occidentalis,,S2,WV
+211,RANUNCULACEAE,Delphinium exaltatum,,,S2,WV
+226,ONAGRACEAE,Oenothera pilosella,Oenothera pilosella ssp. pilosella,,S2,WV
+230,ORCHIDACEAE,Pogonia ophioglossoides,,,S2,WV
+235,LAMIACEAE,Synandra hispidula,,,S2,WV
+236,CUPRESSACEAE,Thuja occidentalis,,,S2,WV
+240,WOODSIACEAE,Woodsia appalachiana,Woodsia scopulina,,S2,WV
+241,WOODSIACEAE,Woodsia ilvensis,,,S2,WV
